@@ -1,0 +1,10 @@
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\obj\Debug\Decrypt7.csprojResolveAssemblyReference.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\obj\Debug\Decrypt7.Decrypt7.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\obj\Debug\Decrypt7.Properties.Resources.resources
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\obj\Debug\Decrypt7.csproj.GenerateResource.Cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\obj\Debug\Decrypt7.csproj.CoreCompileInputs.cache
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\bin\Debug\Decrypt7.exe.config
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\bin\Debug\Decrypt7.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\bin\Debug\Decrypt7.pdb
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\obj\Debug\Decrypt7.exe
+C:\Users\mantis\Documents\Visual Studio 2017\Projects\Decrypt7\Decrypt7\obj\Debug\Decrypt7.pdb
