@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/tjnpbancuri79wav?svg=true)](https://ci.appveyor.com/project/abatsakidis/decrypt7)
+
 ## Description ##
 
 An easy-to-use Cisco Password 7 Decrypter. 
